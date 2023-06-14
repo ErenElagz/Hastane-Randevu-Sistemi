@@ -1,0 +1,15 @@
+ td{
+    vertical-align: middle;
+}
+.link{
+    text-decoration: none !important;
+    color: white !important;
+}
+.error {
+    background: #F2DEDE;
+    color: #A94442;
+    padding: 8px;
+    width: 100%;
+    text-align: center;
+    border-radius: 8px;
+ }
