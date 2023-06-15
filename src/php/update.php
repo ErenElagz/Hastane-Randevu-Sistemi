@@ -51,7 +51,7 @@ if (isset($_POST['submit'])) {
     <!--Randevu-->
     <section class="container rounded-2 mt-3">
         <div class="row">
-            
+
             <!--Input-->
             <form method="post" class="col col-md-6 d-flex flex-column align-items-center justify-content-center gap-3">
                 <h2 class="mt-2">Randevu Güncelle</h2>
@@ -128,7 +128,7 @@ if (isset($_POST['submit'])) {
                     </button>
                 </div>
             </form>
-    
+
             <!--Animasyon-->
             <div class="col col-md-6 d-flex align-items-center justify-content-center">
                 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
