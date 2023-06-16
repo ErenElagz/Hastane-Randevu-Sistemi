@@ -1,8 +1,7 @@
 # Hastane Yönetim Sistemi
-Kullanıcı giriş sayfası olan, hasta ekleyip, çıkarabileceğiniz ve güncelleyebileceğiniz ,Kendi veritabanı tablosu olan PHP tabanlı Hastane Randevu Otomasyonu!
+Kullanıcı giriş sayfası olan ve çıkış yapabileceğiniz, hasta ekleme çıkarma ve güncelleme yapabileceğiniz, Kendi veritabanı tablosu olan PHP tabanlı Hastane Randevu Otomasyonu!
 
 ## Detaylı Kullanım Kılavuzu
-
 - Src klasöründe sql query'lerini çalıştırabilir yada hastane adında db    oluşturup belirtilen özelliklerde 2 tablo oluşturulabilir.  
 - Daha sonrasında index.php yi çalıştırdığınız zaman login page ile    karşılaşacaksınız ve kullancı girişi yapıp sisteme giriş  yapabilirsiniz.
 - Sistemde input section içinden tüm bilgileri girip    butona tıklarsanız.Kullanıcı sisteme eklenir ve sayfa refresh edilir,
