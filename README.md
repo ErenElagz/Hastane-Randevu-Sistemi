@@ -20,8 +20,8 @@ Kullanıcı giriş sayfası olan, hasta ekleyip, çıkarabileceğiniz ve güncel
 ![Screenshot 2023-06-16 222205](https://github.com/ErenElagz/Hastane-Randevu-Sistemi/assets/125195062/13b551e5-4902-4342-81c5-b9ab23ce47b3)
 ![Screenshot 2023-06-16 222313](https://github.com/ErenElagz/Hastane-Randevu-Sistemi/assets/125195062/f7fcc7b3-58d6-434d-9468-e269cbc43bf1)
 ![Screenshot 2023-06-16 222324](https://github.com/ErenElagz/Hastane-Randevu-Sistemi/assets/125195062/f67189f8-2328-421a-8609-8a6536d6e584)
-![Screenshot 2023-06-16 222336](https://github.com/ErenElagz/Hastane-Randevu-Sistemi/assets/125195062/665fa588-06b0-462a-bf9c-e8fa29530942)
-![Screenshot 2023-06-16 222343](https://github.com/ErenElagz/Hastane-Randevu-Sistemi/assets/125195062/69cf91da-08f9-4d30-b3d2-9d1b3745fd0c)
+![Screenshot 2023-06-16 222619](https://github.com/ErenElagz/Hastane-Randevu-Sistemi/assets/125195062/62cfe67e-f0df-4a6e-875a-95976bbf22db)
+
 
 ## Lisans
 Dönem sonu projemdi.İstediğiniz gibi güncellemeler ve düzenlemeler yapabilirsiniz. Birkaç Update yapmak istiyorum müsait olunca çalışacağım bu repo üzerinde, geliişimi merak ediyorsanız takip edebilirsiniz. 
